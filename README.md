@@ -1,2 +1,2 @@
-# SickDEVSMZ.github.io
-Pagina Web da Sick DEVSMZ 
+Uma Pequena pagina Web
+Um dos Meus primeiros Projectos WEB
